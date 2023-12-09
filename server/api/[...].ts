@@ -8,8 +8,4 @@ const probotApp = new Probot({
 });
 
 
-
-
-
-
 export default fromNodeMiddleware(createNodeMiddleware(probot, {webhooksPath: "/api/webhooks", probot: probotApp}))
