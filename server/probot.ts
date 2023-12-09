@@ -13,13 +13,7 @@ export const probot = (app: Probot) => {
         // NOTE: this example doesn't actually integrate with a cloud
         // provider to deploy your app, it just demos the basic API usage.
         app.log.info(context.payload);
-  
-    
 
-
-
-
-        
     // return app;
   
     // For more information on building apps:
