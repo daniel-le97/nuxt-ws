@@ -5,7 +5,6 @@ const probotApp = new Probot({
     appId: process.env.APP_ID,
     privateKey: process.env.PRIVATE_KEY,
     secret: process.env.WEBHOOK_SECRET,
-    // webhookPath: "/api/webhooks",
 });
 
 
