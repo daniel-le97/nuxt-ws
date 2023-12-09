@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@nuxtus/nuxt-localtunnel": "^1.0.1",
-    "probot": "^12.3.3"
+    "probot": "^12.3.3",
+    "smee-client": "^2.0.0"
   }
 }
