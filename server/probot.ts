@@ -14,12 +14,6 @@ export const probot = (app: Probot) => {
         // provider to deploy your app, it just demos the basic API usage.
         app.log.info(context.payload);
 
-    // return app;
-  
-    // For more information on building apps:
-    // https://probot.github.io/docs/
-  
-    // To get your app running against GitHub, see:
-    // https://probot.github.io/docs/development/
+
     })};
   
